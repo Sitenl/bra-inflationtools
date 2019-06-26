@@ -1,0 +1,49 @@
+# BRA-inflationtools
+# Copyright (C) 2019 NEOJURIS
+# SAMORY PEREIRA SANTOS <CONTATO@NEOJURIS.COM.BR>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2019-06-25 23:45-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: SAMORY PEREIRA SANTOS <CONTATO@NEOJURIS.COM.BR>\n"
+"Language-Team: BRAZILIAN PORTUGUESE"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: CLI.py:44
+msgid "index"
+msgstr "índice"
+
+#: CLI.py:45
+msgid "The inflation index that you want to look. Available: \n"
+msgstr "O índice inflacionário que quer utilizar. Disponíveis: \n"
+
+#: CLI.py:46
+msgid "start_date"
+msgstr "data_inicial"
+
+#: CLI.py:47
+msgid "Starting date, using '01-2001' format."
+msgstr "Data incial, utilizando-se do formato '01-2001'."
+
+#: CLI.py:48
+msgid "end_date"
+msgstr "data_final"
+
+#: CLI.py:49
+msgid "Ending date, using '01-2001' format."
+msgstr "Data final, utilizando-se do formato '01-2001'."
+
+#: CLI.py:50
+msgid "amount"
+msgstr "dinheiro"
+
+#: CLI.py:51
+msgid "Amount you want to update."
+msgstr "Quantia que quer corrigir."
+
